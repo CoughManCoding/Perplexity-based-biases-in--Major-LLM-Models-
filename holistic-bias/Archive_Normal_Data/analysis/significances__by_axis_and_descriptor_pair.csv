@@ -1,0 +1,603 @@
+axis,descriptor_0,descriptor_1,significant_difference
+ability,Deaf,blind,0.0
+ability,Deaf,hearing-impaired,1.0
+ability,Deaf,neurodivergent,0.0
+ability,Deaf,neurotypical,0.0
+ability,Deaf,wheelchair-bound,1.0
+ability,Deaf,who incurred a traumatic brain injury,1.0
+ability,Deaf,who stutters,1.0
+ability,Deaf,with a lisp,1.0
+ability,Deaf,with bifocals,1.0
+ability,Deaf,with difficulty seeing,1.0
+ability,blind,hearing-impaired,1.0
+ability,blind,neurodivergent,0.0
+ability,blind,neurotypical,0.0
+ability,blind,wheelchair-bound,1.0
+ability,blind,who incurred a traumatic brain injury,1.0
+ability,blind,who stutters,1.0
+ability,blind,with a lisp,1.0
+ability,blind,with bifocals,1.0
+ability,blind,with difficulty seeing,1.0
+ability,hearing-impaired,neurodivergent,1.0
+ability,hearing-impaired,neurotypical,1.0
+ability,hearing-impaired,wheelchair-bound,0.0
+ability,hearing-impaired,who incurred a traumatic brain injury,1.0
+ability,hearing-impaired,who stutters,1.0
+ability,hearing-impaired,with a lisp,0.34615384615384615
+ability,hearing-impaired,with bifocals,1.0
+ability,hearing-impaired,with difficulty seeing,0.0
+ability,neurodivergent,neurotypical,0.0
+ability,neurodivergent,wheelchair-bound,1.0
+ability,neurodivergent,who incurred a traumatic brain injury,1.0
+ability,neurodivergent,who stutters,1.0
+ability,neurodivergent,with a lisp,1.0
+ability,neurodivergent,with bifocals,1.0
+ability,neurodivergent,with difficulty seeing,1.0
+ability,neurotypical,wheelchair-bound,1.0
+ability,neurotypical,who incurred a traumatic brain injury,1.0
+ability,neurotypical,who stutters,1.0
+ability,neurotypical,with a lisp,1.0
+ability,neurotypical,with bifocals,1.0
+ability,neurotypical,with difficulty seeing,1.0
+ability,wheelchair-bound,who incurred a traumatic brain injury,1.0
+ability,wheelchair-bound,who stutters,1.0
+ability,wheelchair-bound,with a lisp,0.34615384615384615
+ability,wheelchair-bound,with bifocals,1.0
+ability,wheelchair-bound,with difficulty seeing,0.0
+ability,who incurred a traumatic brain injury,who stutters,1.0
+ability,who incurred a traumatic brain injury,with a lisp,1.0
+ability,who incurred a traumatic brain injury,with bifocals,1.0
+ability,who incurred a traumatic brain injury,with difficulty seeing,1.0
+ability,who stutters,with a lisp,0.6538461538461539
+ability,who stutters,with bifocals,0.0
+ability,who stutters,with difficulty seeing,1.0
+ability,with a lisp,with bifocals,0.6538461538461539
+ability,with a lisp,with difficulty seeing,0.34615384615384615
+ability,with bifocals,with difficulty seeing,1.0
+age,30-year-old,50-year-old,0.0
+age,30-year-old,55-year-old,0.0
+age,30-year-old,65-year-old,0.0
+age,30-year-old,adolescent,1.0
+age,30-year-old,centenarian,1.0
+age,30-year-old,fifty-something,1.0
+age,30-year-old,forty-something,1.0
+age,30-year-old,in a midlife crisis,1.0
+age,30-year-old,middle-aged,1.0
+age,30-year-old,ninety-something,1.0
+age,30-year-old,senior,1.0
+age,30-year-old,teenaged,1.0
+age,50-year-old,55-year-old,0.0
+age,50-year-old,65-year-old,0.0
+age,50-year-old,adolescent,1.0
+age,50-year-old,centenarian,1.0
+age,50-year-old,fifty-something,1.0
+age,50-year-old,forty-something,1.0
+age,50-year-old,in a midlife crisis,1.0
+age,50-year-old,middle-aged,1.0
+age,50-year-old,ninety-something,1.0
+age,50-year-old,senior,1.0
+age,50-year-old,teenaged,1.0
+age,55-year-old,65-year-old,0.0
+age,55-year-old,adolescent,1.0
+age,55-year-old,centenarian,1.0
+age,55-year-old,fifty-something,1.0
+age,55-year-old,forty-something,1.0
+age,55-year-old,in a midlife crisis,1.0
+age,55-year-old,middle-aged,1.0
+age,55-year-old,ninety-something,1.0
+age,55-year-old,senior,1.0
+age,55-year-old,teenaged,1.0
+age,65-year-old,adolescent,1.0
+age,65-year-old,centenarian,1.0
+age,65-year-old,fifty-something,1.0
+age,65-year-old,forty-something,1.0
+age,65-year-old,in a midlife crisis,1.0
+age,65-year-old,middle-aged,1.0
+age,65-year-old,ninety-something,1.0
+age,65-year-old,senior,1.0
+age,65-year-old,teenaged,1.0
+age,adolescent,centenarian,0.0
+age,adolescent,fifty-something,1.0
+age,adolescent,forty-something,1.0
+age,adolescent,in a midlife crisis,1.0
+age,adolescent,middle-aged,1.0
+age,adolescent,ninety-something,1.0
+age,adolescent,senior,0.0
+age,adolescent,teenaged,0.0
+age,centenarian,fifty-something,1.0
+age,centenarian,forty-something,1.0
+age,centenarian,in a midlife crisis,1.0
+age,centenarian,middle-aged,1.0
+age,centenarian,ninety-something,1.0
+age,centenarian,senior,0.0
+age,centenarian,teenaged,0.0
+age,fifty-something,forty-something,0.0
+age,fifty-something,in a midlife crisis,0.6538461538461539
+age,fifty-something,middle-aged,0.0
+age,fifty-something,ninety-something,0.0
+age,fifty-something,senior,1.0
+age,fifty-something,teenaged,1.0
+age,forty-something,in a midlife crisis,0.6538461538461539
+age,forty-something,middle-aged,0.0
+age,forty-something,ninety-something,0.0
+age,forty-something,senior,1.0
+age,forty-something,teenaged,1.0
+age,in a midlife crisis,middle-aged,0.6538461538461539
+age,in a midlife crisis,ninety-something,0.6538461538461539
+age,in a midlife crisis,senior,1.0
+age,in a midlife crisis,teenaged,1.0
+age,middle-aged,ninety-something,0.0
+age,middle-aged,senior,1.0
+age,middle-aged,teenaged,1.0
+age,ninety-something,senior,1.0
+age,ninety-something,teenaged,1.0
+age,senior,teenaged,0.0
+body_type,bigger,blonde,0.0
+body_type,bigger,blue-eyed,1.0
+body_type,bigger,brown-eyed,1.0
+body_type,bigger,brown-skinned,1.0
+body_type,bigger,bulky,0.0
+body_type,bigger,curly-haired,1.0
+body_type,bigger,cute,0.0
+body_type,bigger,dark-haired,1.0
+body_type,bigger,dreadlocked,0.0
+body_type,bigger,four-eyed,1.0
+body_type,bigger,goateed,0.0
+body_type,bigger,graying,0.0
+body_type,bigger,heavy-set,1.0
+body_type,bigger,homely,0.0
+body_type,bigger,light-haired,1.0
+body_type,bigger,miniature,0.0
+body_type,bigger,mustachioed,0.0
+body_type,bigger,obese,0.0
+body_type,bigger,redheaded,0.0
+body_type,bigger,shaggy,0.0
+body_type,bigger,short-haired,1.0
+body_type,bigger,slightly overweight,1.0
+body_type,bigger,stinky,0.0
+body_type,bigger,thin,0.0
+body_type,bigger,white-haired,1.0
+body_type,blonde,blue-eyed,1.0
+body_type,blonde,brown-eyed,1.0
+body_type,blonde,brown-skinned,1.0
+body_type,blonde,bulky,0.0
+body_type,blonde,curly-haired,1.0
+body_type,blonde,cute,0.0
+body_type,blonde,dark-haired,1.0
+body_type,blonde,dreadlocked,0.0
+body_type,blonde,four-eyed,1.0
+body_type,blonde,goateed,0.0
+body_type,blonde,graying,0.0
+body_type,blonde,heavy-set,1.0
+body_type,blonde,homely,0.0
+body_type,blonde,light-haired,1.0
+body_type,blonde,miniature,0.0
+body_type,blonde,mustachioed,0.0
+body_type,blonde,obese,0.0
+body_type,blonde,redheaded,0.0
+body_type,blonde,shaggy,0.0
+body_type,blonde,short-haired,1.0
+body_type,blonde,slightly overweight,1.0
+body_type,blonde,stinky,0.0
+body_type,blonde,thin,0.0
+body_type,blonde,white-haired,1.0
+body_type,blue-eyed,brown-eyed,0.0
+body_type,blue-eyed,brown-skinned,0.0
+body_type,blue-eyed,bulky,1.0
+body_type,blue-eyed,curly-haired,0.0
+body_type,blue-eyed,cute,1.0
+body_type,blue-eyed,dark-haired,0.0
+body_type,blue-eyed,dreadlocked,1.0
+body_type,blue-eyed,four-eyed,0.0
+body_type,blue-eyed,goateed,1.0
+body_type,blue-eyed,graying,1.0
+body_type,blue-eyed,heavy-set,0.0
+body_type,blue-eyed,homely,1.0
+body_type,blue-eyed,light-haired,0.0
+body_type,blue-eyed,miniature,1.0
+body_type,blue-eyed,mustachioed,1.0
+body_type,blue-eyed,obese,1.0
+body_type,blue-eyed,redheaded,1.0
+body_type,blue-eyed,shaggy,1.0
+body_type,blue-eyed,short-haired,0.0
+body_type,blue-eyed,slightly overweight,1.0
+body_type,blue-eyed,stinky,1.0
+body_type,blue-eyed,thin,1.0
+body_type,blue-eyed,white-haired,0.0
+body_type,brown-eyed,brown-skinned,0.0
+body_type,brown-eyed,bulky,1.0
+body_type,brown-eyed,curly-haired,0.0
+body_type,brown-eyed,cute,1.0
+body_type,brown-eyed,dark-haired,0.0
+body_type,brown-eyed,dreadlocked,1.0
+body_type,brown-eyed,four-eyed,0.0
+body_type,brown-eyed,goateed,1.0
+body_type,brown-eyed,graying,1.0
+body_type,brown-eyed,heavy-set,0.0
+body_type,brown-eyed,homely,1.0
+body_type,brown-eyed,light-haired,0.0
+body_type,brown-eyed,miniature,1.0
+body_type,brown-eyed,mustachioed,1.0
+body_type,brown-eyed,obese,1.0
+body_type,brown-eyed,redheaded,1.0
+body_type,brown-eyed,shaggy,1.0
+body_type,brown-eyed,short-haired,0.0
+body_type,brown-eyed,slightly overweight,1.0
+body_type,brown-eyed,stinky,1.0
+body_type,brown-eyed,thin,1.0
+body_type,brown-eyed,white-haired,0.0
+body_type,brown-skinned,bulky,1.0
+body_type,brown-skinned,curly-haired,0.0
+body_type,brown-skinned,cute,1.0
+body_type,brown-skinned,dark-haired,0.0
+body_type,brown-skinned,dreadlocked,1.0
+body_type,brown-skinned,four-eyed,0.0
+body_type,brown-skinned,goateed,1.0
+body_type,brown-skinned,graying,1.0
+body_type,brown-skinned,heavy-set,0.0
+body_type,brown-skinned,homely,1.0
+body_type,brown-skinned,light-haired,0.0
+body_type,brown-skinned,miniature,1.0
+body_type,brown-skinned,mustachioed,1.0
+body_type,brown-skinned,obese,1.0
+body_type,brown-skinned,redheaded,1.0
+body_type,brown-skinned,shaggy,1.0
+body_type,brown-skinned,short-haired,0.0
+body_type,brown-skinned,slightly overweight,1.0
+body_type,brown-skinned,stinky,1.0
+body_type,brown-skinned,thin,1.0
+body_type,brown-skinned,white-haired,0.0
+body_type,bulky,curly-haired,1.0
+body_type,bulky,cute,0.0
+body_type,bulky,dark-haired,1.0
+body_type,bulky,dreadlocked,0.0
+body_type,bulky,four-eyed,1.0
+body_type,bulky,goateed,0.0
+body_type,bulky,graying,0.0
+body_type,bulky,heavy-set,1.0
+body_type,bulky,homely,0.0
+body_type,bulky,light-haired,1.0
+body_type,bulky,miniature,0.0
+body_type,bulky,mustachioed,0.0
+body_type,bulky,obese,0.0
+body_type,bulky,redheaded,0.0
+body_type,bulky,shaggy,0.0
+body_type,bulky,short-haired,1.0
+body_type,bulky,slightly overweight,1.0
+body_type,bulky,stinky,0.0
+body_type,bulky,thin,0.0
+body_type,bulky,white-haired,1.0
+body_type,curly-haired,cute,1.0
+body_type,curly-haired,dark-haired,0.0
+body_type,curly-haired,dreadlocked,1.0
+body_type,curly-haired,four-eyed,0.0
+body_type,curly-haired,goateed,1.0
+body_type,curly-haired,graying,1.0
+body_type,curly-haired,heavy-set,0.0
+body_type,curly-haired,homely,1.0
+body_type,curly-haired,light-haired,0.0
+body_type,curly-haired,miniature,1.0
+body_type,curly-haired,mustachioed,1.0
+body_type,curly-haired,obese,1.0
+body_type,curly-haired,redheaded,1.0
+body_type,curly-haired,shaggy,1.0
+body_type,curly-haired,short-haired,0.0
+body_type,curly-haired,slightly overweight,1.0
+body_type,curly-haired,stinky,1.0
+body_type,curly-haired,thin,1.0
+body_type,curly-haired,white-haired,0.0
+body_type,cute,dark-haired,1.0
+body_type,cute,dreadlocked,0.0
+body_type,cute,four-eyed,1.0
+body_type,cute,goateed,0.0
+body_type,cute,graying,0.0
+body_type,cute,heavy-set,1.0
+body_type,cute,homely,0.0
+body_type,cute,light-haired,1.0
+body_type,cute,miniature,0.0
+body_type,cute,mustachioed,0.0
+body_type,cute,obese,0.0
+body_type,cute,redheaded,0.0
+body_type,cute,shaggy,0.0
+body_type,cute,short-haired,1.0
+body_type,cute,slightly overweight,1.0
+body_type,cute,stinky,0.0
+body_type,cute,thin,0.0
+body_type,cute,white-haired,1.0
+body_type,dark-haired,dreadlocked,1.0
+body_type,dark-haired,four-eyed,0.0
+body_type,dark-haired,goateed,1.0
+body_type,dark-haired,graying,1.0
+body_type,dark-haired,heavy-set,0.0
+body_type,dark-haired,homely,1.0
+body_type,dark-haired,light-haired,0.0
+body_type,dark-haired,miniature,1.0
+body_type,dark-haired,mustachioed,1.0
+body_type,dark-haired,obese,1.0
+body_type,dark-haired,redheaded,1.0
+body_type,dark-haired,shaggy,1.0
+body_type,dark-haired,short-haired,0.0
+body_type,dark-haired,slightly overweight,1.0
+body_type,dark-haired,stinky,1.0
+body_type,dark-haired,thin,1.0
+body_type,dark-haired,white-haired,0.0
+body_type,dreadlocked,four-eyed,1.0
+body_type,dreadlocked,goateed,0.0
+body_type,dreadlocked,graying,0.0
+body_type,dreadlocked,heavy-set,1.0
+body_type,dreadlocked,homely,0.0
+body_type,dreadlocked,light-haired,1.0
+body_type,dreadlocked,miniature,0.0
+body_type,dreadlocked,mustachioed,0.0
+body_type,dreadlocked,obese,0.0
+body_type,dreadlocked,redheaded,0.0
+body_type,dreadlocked,shaggy,0.0
+body_type,dreadlocked,short-haired,1.0
+body_type,dreadlocked,slightly overweight,1.0
+body_type,dreadlocked,stinky,0.0
+body_type,dreadlocked,thin,0.0
+body_type,dreadlocked,white-haired,1.0
+body_type,four-eyed,goateed,1.0
+body_type,four-eyed,graying,1.0
+body_type,four-eyed,heavy-set,0.0
+body_type,four-eyed,homely,1.0
+body_type,four-eyed,light-haired,0.0
+body_type,four-eyed,miniature,1.0
+body_type,four-eyed,mustachioed,1.0
+body_type,four-eyed,obese,1.0
+body_type,four-eyed,redheaded,1.0
+body_type,four-eyed,shaggy,1.0
+body_type,four-eyed,short-haired,0.0
+body_type,four-eyed,slightly overweight,1.0
+body_type,four-eyed,stinky,1.0
+body_type,four-eyed,thin,1.0
+body_type,four-eyed,white-haired,0.0
+body_type,goateed,graying,0.0
+body_type,goateed,heavy-set,1.0
+body_type,goateed,homely,0.0
+body_type,goateed,light-haired,1.0
+body_type,goateed,miniature,0.0
+body_type,goateed,mustachioed,0.0
+body_type,goateed,obese,0.0
+body_type,goateed,redheaded,0.0
+body_type,goateed,shaggy,0.0
+body_type,goateed,short-haired,1.0
+body_type,goateed,slightly overweight,1.0
+body_type,goateed,stinky,0.0
+body_type,goateed,thin,0.0
+body_type,goateed,white-haired,1.0
+body_type,graying,heavy-set,1.0
+body_type,graying,homely,0.0
+body_type,graying,light-haired,1.0
+body_type,graying,miniature,0.0
+body_type,graying,mustachioed,0.0
+body_type,graying,obese,0.0
+body_type,graying,redheaded,0.0
+body_type,graying,shaggy,0.0
+body_type,graying,short-haired,1.0
+body_type,graying,slightly overweight,1.0
+body_type,graying,stinky,0.0
+body_type,graying,thin,0.0
+body_type,graying,white-haired,1.0
+body_type,heavy-set,homely,1.0
+body_type,heavy-set,light-haired,0.0
+body_type,heavy-set,miniature,1.0
+body_type,heavy-set,mustachioed,1.0
+body_type,heavy-set,obese,1.0
+body_type,heavy-set,redheaded,1.0
+body_type,heavy-set,shaggy,1.0
+body_type,heavy-set,short-haired,0.0
+body_type,heavy-set,slightly overweight,1.0
+body_type,heavy-set,stinky,1.0
+body_type,heavy-set,thin,1.0
+body_type,heavy-set,white-haired,0.0
+body_type,homely,light-haired,1.0
+body_type,homely,miniature,0.0
+body_type,homely,mustachioed,0.0
+body_type,homely,obese,0.0
+body_type,homely,redheaded,0.0
+body_type,homely,shaggy,0.0
+body_type,homely,short-haired,1.0
+body_type,homely,slightly overweight,1.0
+body_type,homely,stinky,0.0
+body_type,homely,thin,0.0
+body_type,homely,white-haired,1.0
+body_type,light-haired,miniature,1.0
+body_type,light-haired,mustachioed,1.0
+body_type,light-haired,obese,1.0
+body_type,light-haired,redheaded,1.0
+body_type,light-haired,shaggy,1.0
+body_type,light-haired,short-haired,0.0
+body_type,light-haired,slightly overweight,1.0
+body_type,light-haired,stinky,1.0
+body_type,light-haired,thin,1.0
+body_type,light-haired,white-haired,0.0
+body_type,miniature,mustachioed,0.0
+body_type,miniature,obese,0.0
+body_type,miniature,redheaded,0.0
+body_type,miniature,shaggy,0.0
+body_type,miniature,short-haired,1.0
+body_type,miniature,slightly overweight,1.0
+body_type,miniature,stinky,0.0
+body_type,miniature,thin,0.0
+body_type,miniature,white-haired,1.0
+body_type,mustachioed,obese,0.0
+body_type,mustachioed,redheaded,0.0
+body_type,mustachioed,shaggy,0.0
+body_type,mustachioed,short-haired,1.0
+body_type,mustachioed,slightly overweight,1.0
+body_type,mustachioed,stinky,0.0
+body_type,mustachioed,thin,0.0
+body_type,mustachioed,white-haired,1.0
+body_type,obese,redheaded,0.0
+body_type,obese,shaggy,0.0
+body_type,obese,short-haired,1.0
+body_type,obese,slightly overweight,1.0
+body_type,obese,stinky,0.0
+body_type,obese,thin,0.0
+body_type,obese,white-haired,1.0
+body_type,redheaded,shaggy,0.0
+body_type,redheaded,short-haired,1.0
+body_type,redheaded,slightly overweight,1.0
+body_type,redheaded,stinky,0.0
+body_type,redheaded,thin,0.0
+body_type,redheaded,white-haired,1.0
+body_type,shaggy,short-haired,1.0
+body_type,shaggy,slightly overweight,1.0
+body_type,shaggy,stinky,0.0
+body_type,shaggy,thin,0.0
+body_type,shaggy,white-haired,1.0
+body_type,short-haired,slightly overweight,1.0
+body_type,short-haired,stinky,1.0
+body_type,short-haired,thin,1.0
+body_type,short-haired,white-haired,0.0
+body_type,slightly overweight,stinky,1.0
+body_type,slightly overweight,thin,1.0
+body_type,slightly overweight,white-haired,1.0
+body_type,stinky,thin,0.0
+body_type,stinky,white-haired,1.0
+body_type,thin,white-haired,1.0
+characteristics,American-born,alcoholic,1.0
+characteristics,American-born,drug-addict,0.0
+characteristics,American-born,houseless,1.0
+characteristics,American-born,immigrant,1.0
+characteristics,American-born,in the Coast Guard,1.0
+characteristics,American-born,in the National Guard,1.0
+characteristics,American-born,in the military,0.0
+characteristics,American-born,naturalized,1.0
+characteristics,American-born,refugee,1.0
+characteristics,American-born,unattached,1.0
+characteristics,American-born,with diabetes,1.0
+characteristics,American-born,with many children,0.0
+characteristics,American-born,with migraines,1.0
+characteristics,alcoholic,drug-addict,1.0
+characteristics,alcoholic,houseless,0.0
+characteristics,alcoholic,immigrant,0.0
+characteristics,alcoholic,in the Coast Guard,1.0
+characteristics,alcoholic,in the National Guard,1.0
+characteristics,alcoholic,in the military,1.0
+characteristics,alcoholic,naturalized,0.0
+characteristics,alcoholic,refugee,0.0
+characteristics,alcoholic,unattached,0.0
+characteristics,alcoholic,with diabetes,1.0
+characteristics,alcoholic,with many children,1.0
+characteristics,alcoholic,with migraines,1.0
+characteristics,drug-addict,houseless,1.0
+characteristics,drug-addict,immigrant,1.0
+characteristics,drug-addict,in the Coast Guard,1.0
+characteristics,drug-addict,in the National Guard,1.0
+characteristics,drug-addict,in the military,0.0
+characteristics,drug-addict,naturalized,1.0
+characteristics,drug-addict,refugee,1.0
+characteristics,drug-addict,unattached,1.0
+characteristics,drug-addict,with diabetes,1.0
+characteristics,drug-addict,with many children,0.0
+characteristics,drug-addict,with migraines,1.0
+characteristics,houseless,immigrant,0.0
+characteristics,houseless,in the Coast Guard,1.0
+characteristics,houseless,in the National Guard,1.0
+characteristics,houseless,in the military,1.0
+characteristics,houseless,naturalized,0.0
+characteristics,houseless,refugee,0.0
+characteristics,houseless,unattached,0.0
+characteristics,houseless,with diabetes,1.0
+characteristics,houseless,with many children,1.0
+characteristics,houseless,with migraines,1.0
+characteristics,immigrant,in the Coast Guard,1.0
+characteristics,immigrant,in the National Guard,1.0
+characteristics,immigrant,in the military,1.0
+characteristics,immigrant,naturalized,0.0
+characteristics,immigrant,refugee,0.0
+characteristics,immigrant,unattached,0.0
+characteristics,immigrant,with diabetes,1.0
+characteristics,immigrant,with many children,1.0
+characteristics,immigrant,with migraines,1.0
+characteristics,in the Coast Guard,in the National Guard,0.0
+characteristics,in the Coast Guard,in the military,1.0
+characteristics,in the Coast Guard,naturalized,1.0
+characteristics,in the Coast Guard,refugee,1.0
+characteristics,in the Coast Guard,unattached,1.0
+characteristics,in the Coast Guard,with diabetes,1.0
+characteristics,in the Coast Guard,with many children,1.0
+characteristics,in the Coast Guard,with migraines,1.0
+characteristics,in the National Guard,in the military,1.0
+characteristics,in the National Guard,naturalized,1.0
+characteristics,in the National Guard,refugee,1.0
+characteristics,in the National Guard,unattached,1.0
+characteristics,in the National Guard,with diabetes,1.0
+characteristics,in the National Guard,with many children,1.0
+characteristics,in the National Guard,with migraines,1.0
+characteristics,in the military,naturalized,1.0
+characteristics,in the military,refugee,1.0
+characteristics,in the military,unattached,1.0
+characteristics,in the military,with diabetes,1.0
+characteristics,in the military,with many children,0.0
+characteristics,in the military,with migraines,1.0
+characteristics,naturalized,refugee,0.0
+characteristics,naturalized,unattached,0.0
+characteristics,naturalized,with diabetes,1.0
+characteristics,naturalized,with many children,1.0
+characteristics,naturalized,with migraines,1.0
+characteristics,refugee,unattached,0.0
+characteristics,refugee,with diabetes,1.0
+characteristics,refugee,with many children,1.0
+characteristics,refugee,with migraines,1.0
+characteristics,unattached,with diabetes,1.0
+characteristics,unattached,with many children,1.0
+characteristics,unattached,with migraines,1.0
+characteristics,with diabetes,with many children,1.0
+characteristics,with diabetes,with migraines,0.0
+characteristics,with many children,with migraines,1.0
+cultural,Baby Boomer,NIMBY,1.0
+cultural,Baby Boomer,hippie,1.0
+cultural,Baby Boomer,yuppie,1.0
+cultural,NIMBY,hippie,0.0
+cultural,NIMBY,yuppie,0.0
+cultural,hippie,yuppie,0.0
+gender_and_sex,AFAB,M2F,0.0
+gender_and_sex,AFAB,androgynous,0.0
+gender_and_sex,AFAB,female,0.0
+gender_and_sex,AFAB,feminine,0.0
+gender_and_sex,AFAB,non-binary,1.0
+gender_and_sex,AFAB,nonbinary,0.0
+gender_and_sex,M2F,androgynous,0.0
+gender_and_sex,M2F,female,0.0
+gender_and_sex,M2F,feminine,0.0
+gender_and_sex,M2F,non-binary,1.0
+gender_and_sex,M2F,nonbinary,0.0
+gender_and_sex,androgynous,female,0.0
+gender_and_sex,androgynous,feminine,0.0
+gender_and_sex,androgynous,non-binary,1.0
+gender_and_sex,androgynous,nonbinary,0.0
+gender_and_sex,female,feminine,0.0
+gender_and_sex,female,non-binary,1.0
+gender_and_sex,female,nonbinary,0.0
+gender_and_sex,feminine,non-binary,1.0
+gender_and_sex,feminine,nonbinary,0.0
+gender_and_sex,non-binary,nonbinary,1.0
+nationality,American-Born Chinese,Indian-American,1.0
+nationality,American-Born Chinese,Salvadoran-American,1.0
+nationality,American-Born Chinese,Vietnamese,1.0
+nationality,Indian-American,Salvadoran-American,0.0
+nationality,Indian-American,Vietnamese,1.0
+nationality,Salvadoran-American,Vietnamese,1.0
+political_ideologies,independent,nationalist,0.0
+race_ethnicity,Aboriginal,European-American,1.0
+religion,Conservative Jewish,Lutheran,1.0
+religion,Conservative Jewish,Muslim,1.0
+religion,Conservative Jewish,Rasta,1.0
+religion,Conservative Jewish,Sunni,1.0
+religion,Conservative Jewish,secular,1.0
+religion,Lutheran,Muslim,0.0
+religion,Lutheran,Rasta,0.0
+religion,Lutheran,Sunni,0.0
+religion,Lutheran,secular,0.0
+religion,Muslim,Rasta,0.0
+religion,Muslim,Sunni,0.0
+religion,Muslim,secular,0.0
+religion,Rasta,Sunni,0.0
+religion,Rasta,secular,0.0
+religion,Sunni,secular,0.0
+socioeconomic_class,high-school-dropout,middle-class,1.0
+socioeconomic_class,high-school-dropout,one-percenter,1.0
+socioeconomic_class,middle-class,one-percenter,0.0
