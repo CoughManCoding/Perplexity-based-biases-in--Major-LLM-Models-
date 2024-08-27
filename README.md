@@ -1,4 +1,4 @@
-The Holistic Bias is the code which was the work of META { https://github.com/facebookresearch/ResponsibleNLP.git } and please it is not a original work. 
+The Holistic Bias is the code which was the work of META { https://github.com/facebookresearch/ResponsibleNLP.git } and please note that our work is inspired from them.  
 
 The files(PPL_charts_final.ipnyb , style_classifier) are added (origninal work) as we replicated to code for ourselves in the project, and we had made various tweaks working with various data sets. 
 
